@@ -1,2 +1,2 @@
 # mailsv
-Smtp mail server with rust (still under development)
+Smtp mail server with rust (still in progress)
